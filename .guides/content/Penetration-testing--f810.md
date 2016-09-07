@@ -1,0 +1,1 @@
+One way of checking for vulnerabilities is to use experts that will try to hack the network, without doing any damage. Any weaknesses that have been exploited are then fed back to the network team, to ensure they are exploited again.

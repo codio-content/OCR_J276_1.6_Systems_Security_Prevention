@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "d7b215ff-0591-c343-1106-2caa1a916b97",
+   "title": "Identifying and preventing vulnerabilities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Identifying-and-preventing-vulnerabilities-d7b2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f810a880-9b45-0263-0417-2cd0108c1ed5",
+   "title": "Penetration testing ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Penetration-testing--f810.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "54682b86-3e60-a924-a1f2-5740ecc2f2fb",
+   "title": "Network forensics ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Network-forensics--5468.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "87d7f74a-a034-af04-b0f1-5f1bde3dedc8",
+   "title": "Network policies",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Network-policies-87d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "188b1581-9ffa-c2d4-e842-8ee64ca16d36",
+   "title": "Anti-malware software ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Anti-malware-software--188b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e3ab2190-cf3e-698c-43c1-eabcc19cd204",
+   "title": "Firewalls",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Firewalls-e3ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b3bee8d0-0076-af66-9b5c-a7dfbc70a27d",
+   "title": "User access levels ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/User-access-levels--b3be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "59a35ddd-4d2b-dbdd-7520-2dd719133ab0",
+   "title": "Passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Passwords-59a3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f63341de-4748-9f70-3dad-9e2b6ec215a0",
+   "title": "Encryption. ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Encryption---f633.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

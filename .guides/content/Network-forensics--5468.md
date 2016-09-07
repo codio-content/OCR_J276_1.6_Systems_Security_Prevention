@@ -1,0 +1,1 @@
+Just like crime scene forensics who attend a crime scene to work out what has happened, Network forensics do just that after a network attack. Specialists will analyse the network and data packets to see what has gone wrong, in order to prevent future attacks.

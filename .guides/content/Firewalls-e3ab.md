@@ -1,0 +1,1 @@
+Interestingly firewalls can come in both software and hardware form. The main focus of a Firewall is to filter out and prevent any unwanted data packets, intruding into the network.
