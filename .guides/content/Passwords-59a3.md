@@ -1,4 +1,4 @@
-It goes without saying that passwords to access a network is critical to keeping a network secure. This applies to your home Wi-Fi when setting that up as anybody will be able to use your network. 
+It goes without saying that passwords to access a network are critical to keeping a network secure. This applies to your home Wi-Fi when setting that up as anybody will be able to use your network. 
 
 The following rules should be applied when creating a password:
 

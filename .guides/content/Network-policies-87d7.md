@@ -1,5 +1,5 @@
 For a Network to run efficiently and securely it is vital that a good network policy is followed. 
-Some good practices for organisations to follow are as follows:
+Some good practices for organisations to follow are:
 
 - Enforce the use of strong passwords by using a combination of letters, numbers and symbols.
 - Ensure that SPAM filters are used on Email and up to date anti-virus software is in place.
