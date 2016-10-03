@@ -1,0 +1,63 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-286195747",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select the correct name for each description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Software installed to prevent programs designed to disrupt the system or to delete data: <<<Anti-malware software>>>\nScrambling of data into a form that cannot be understood by unauthorised recipients: <<<Encryption>>>\nProcedures in place to safeguard the security of the network and prevent problems: <<<network policies>>>\nSetting each user’s rights to folders and files: <<<User access levels>>>",
+   "tokens": {
+    "blank": [
+     "Anti-malware software",
+     "Encryption",
+     "network policies",
+     "User access levels"
+    ],
+    "text": [
+     "Software installed to prevent programs designed to disrupt the system or to delete data: ",
+     0,
+     "\nScrambling of data into a form that cannot be understood by unauthorised recipients: ",
+     0,
+     "\nProcedures in place to safeguard the security of the network and prevent problems: ",
+     0,
+     "\nSetting each user’s rights to folders and files: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2748819492",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select the correct name for each description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Testing of a computer system to find vulnerabilities that an attacker could exploit: <<<Penetration testing>>>\nA method of authenticating network users: <<<Passwords>>>\nThe monitoring, recording and analysis of network events: <<<Network forensics>>>\nA software or hardware device that protects against unauthorised access to a network: <<<Firewall>>>\n",
+   "tokens": {
+    "blank": [
+     "Penetration testing",
+     "Passwords",
+     "Network forensics",
+     "Firewall"
+    ],
+    "text": [
+     "Testing of a computer system to find vulnerabilities that an attacker could exploit: ",
+     0,
+     "\nA method of authenticating network users: ",
+     0,
+     "\nThe monitoring, recording and analysis of network events: ",
+     0,
+     "\nA software or hardware device that protects against unauthorised access to a network: ",
+     0,
+     "\n"
+    ]
+   }
+  }
+ }
+]
